@@ -1,0 +1,12 @@
+html, body{
+    margin: 1000;
+padding: 1000; 
+background-color:pink;
+
+}
+
+p { font-weight: bold; }
+
+.item{
+    background-color:pink;
+}
